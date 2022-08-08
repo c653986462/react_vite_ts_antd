@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "amfe-flexible": "^2.2.1",
     "antd": "^4.22.3",
+    "postcss": "^8.4.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-config": "^5.1.1",
