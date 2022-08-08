@@ -1,0 +1,28 @@
+{
+  "name": "react_app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "antd": "^4.22.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-config": "^5.1.1",
+    "react-router-dom": "^6.3.0",
+    "vite-plugin-imp": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.0",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "sass": "^1.54.1",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.0"
+  }
+}

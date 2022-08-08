@@ -1,0 +1,17 @@
+[
+    {
+        "id": "100000",
+        "name": "home",
+        "value": "/"
+    },
+    {
+        "id": "200000",
+        "name": "page",
+        "value": "/page"
+    },
+    {
+        "id": "300000",
+        "name": "else",
+        "value": "/else"
+    }
+]
